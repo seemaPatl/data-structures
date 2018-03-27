@@ -31,4 +31,5 @@ int main()
 	stk.pop();
 	}	
 	return 0;
+}
 
